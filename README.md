@@ -1,7 +1,6 @@
 # 画像処理・ディープラーニング実装集（ResNet・U-Net・Vision Transformer）
 
-このリポジトリでは、ResNet、U-Net、Vision Transformer等の代表的なモデルを使用して、  
-画像処理タスクの基礎を自学自習で実装しています。
+このリポジトリでは、ResNet、U-Net、Vision Transformer等の代表的なモデルを使用して、  画像処理タスクの基礎を自学自習で実装しています。
 
 ---
 
