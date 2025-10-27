@@ -5,8 +5,6 @@
 
 # VAE-GANによるアニメ顔画像生成
 
-Pythonプログラムの概要説明
-
 ## プログラムの目的
 
 **VAE (Variational Autoencoder) と GAN (Generative Adversarial Network) を組み合わせたモデルによるアニメ顔画像の生成**
